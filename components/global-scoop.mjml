@@ -1,0 +1,99 @@
+<mj-section padding-top="0">
+  <mj-column width="100%">
+    <mj-image src="http://127.0.0.1:5500/assets/world.png" alt="handshake" />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      padding-bottom="0"
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      font-weight="bold"
+      color="#333333"
+    >
+      <span class="heading-text">Global Scoop</span>
+      <br />
+      <ul>
+        <li>WTI CRUDE: <span class="text-red">-0.21%</span></li>
+        <li>BRENT CRUDE: <span class="text-green">+0.08%</span></li>
+      </ul>
+    </mj-text>
+  </mj-column>
+  <mj-raw>
+    <!-- Section Note -->
+  </mj-raw>
+  <mj-column width="100%" padding="0">
+    <mj-text align="center"> *Global Scoop numbers as of June 19th </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-raw>
+      <!---->
+    </mj-raw>
+    <mj-text font-size="24px" line-height="29px" font-weight="bold">
+      Vote Of (No) Confidence
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      Toyota Chairman Akio Toyoda recently got a 71.9% approval rating from his
+      company’s shareholders.
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      That’s a good enough number to pass your math test - but in the Japanese
+      corporate world, it’s
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TMIk"
+        >really really low</a
+      >.
+      <ul>
+        <li>
+          Japanese board members regularly get nearly 100% support from their
+          shareholders.
+        </li>
+      </ul>
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px" padding-top="0">
+      Toyota recently got in trouble for
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TMI0"
+        >cheating on its safety tests</a
+      >
+      on seven of its models, with Toyoda apologizing for the fraud.
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      Though Toyoda will remain chairman, the vote shows he may have resistance.
+    </mj-text>
+  </mj-column>
+  <mj-column width="15%" padding="0">
+    <mj-text align="center" css-class="line"> </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text font-size="24px" line-height="29px" font-weight="bold">
+      The Great British Rate Off
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      The U.K. hit its 2% inflation target in May - but experts think the Bank
+      of England will
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TMIC"
+        >keep interest rates</a
+      >
+      where they are for now.
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      Inflation has walloped the U.K., with the country having not hit its 2%
+      target in three years.
+      <ul>
+        <li>
+          The U.K. is taking a more cautious approach than the E.U., which has
+          already lowered rates earlier this June.
+        </li>
+      </ul>
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      Still, experts are forecasting a cut in August, with the inflation numbers
+      lifting the London stock market over the past week.
+    </mj-text>
+  </mj-column>
+</mj-section>

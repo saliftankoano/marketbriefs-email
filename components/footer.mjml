@@ -1,0 +1,64 @@
+<mj-section>
+      <mj-column width="100%" padding="0">
+        <mj-image
+          src="http://127.0.0.1:5500/assets/footer-line.png"
+          alt="Blue line"
+        />
+      </mj-column>
+      <mj-column width="30%" padding="0">
+        <mj-image
+          src="http://127.0.0.1:5500/assets/icon.png"
+          alt="Marketbriefs icon"
+        />
+      </mj-column>
+      <mj-column width="65%">
+        <mj-text
+          color="#036afe"
+          font-family="Helvatica"
+          font-size="16px"
+          line-height="24px"
+          font-weight="bold"
+        >
+          - Market Briefs Team
+        </mj-text>
+        <mj-text>
+          <strong>Was this newsletter forwarded to you?</strong> Subscribe to
+          Market Briefs
+          <a
+            class="link-color"
+            href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TLJ0"
+            >here</a
+          >.
+        </mj-text> <mj-text font-family="Helvatica"
+          font-size="13px"
+          line-height="16px">
+        *Some of the links included are from our affiliate partners or sponsors
+        meaning we will get compensated if you make a purchase.
+        </mj-text>
+      </mj-text> <mj-text font-family="Helvatica"
+          font-size="13px"
+          line-height="16px">
+        There is no additional cost to you. Investing has risks. You are never guaranteed to make money when you invest, you might even lose money.
+      </mj-text>
+      </mj-text>
+      <mj-text font-family="Helvatica"
+          font-size="13px"
+          line-height="16px">
+            Always do your own due diligence. We care about your success and that's why we believe in being absolutely transparent with you.
+      </mj-text>
+      <mj-text padding-top="0" padding-right="0" css-class="link-color" font-family="Helvatica"
+          font-size="13px"
+          line-height="16px">
+        Sent to: testtoyou@gmail.com
+      </mj-text>
+      <mj-text align="center">
+         <a href="#">Unsubscribe</a>
+      </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" font-family="Helvatica" font-size="11px"
+          line-height="17px">
+            Briefs Media, LLC, 100 Renaissance Ctr, Ste 1014 #43212 , Detroit, Michigan 48243, United States
+        </mj-text>
+      </mj-column>
+    </mj-section>

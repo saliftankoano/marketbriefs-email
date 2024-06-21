@@ -1,0 +1,76 @@
+<mj-section>
+  <mj-column width="100%">
+    <mj-image
+      src="http://127.0.0.1:5500/assets/crypto.png"
+      alt="crypto currency icon"
+    />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      padding-bottom="0"
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      font-weight="bold"
+      color="#333333"
+    >
+      <span class="heading-text">CRYPTO</span>
+      <ul>
+        <li>BTC: $65,082 <span class="text-red">(-0.044%)</span></li>
+        <li>ETH: $3,543 <span class="text-red">(-0.19%)</span></li>
+        <li>SOL: $134.28 <span class="text-red">(-3.37%)</span></li>
+      </ul>
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" padding="0">
+    <mj-text align="center">
+      *Crypto numbers as of 5:00 pm EST on June 19th
+    </mj-text></mj-column
+  >
+  <mj-column width="100%">
+    <mj-text font-size="24px" line-height="29px" font-weight="bold">
+      The Big Reveal
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-image
+      src="http://127.0.0.1:5500/assets/reveal.gif"
+      alt="surpised sitcom male character"
+    />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+      DJT - or TrumpCoin - shot up 180% on its debut on Monday when investors
+      speculated Donald Trump was involved in its launch.
+    </mj-text>
+    <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+      “Pharma Bro” Martin Shkreli says that he's the actual creator, claiming to
+      have invented it with Trump's son Barron.
+    </mj-text>
+    <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+      Why the reveal? Shkreli made a
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TMJk"
+        >$100 million bet</a
+      >
+      on Tuesday that Trump wasn’t involved in the coin - right before he
+      claimed responsibility on X.
+      <ul>
+        <li>
+          People are trying to verify if Shkreli is telling the truth and if the
+          bet is valid.
+        </li>
+      </ul>
+    </mj-text>
+    <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+      The attention has negatively affected the coin’s price, with the DJT coin
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TMJ0"
+        >down 58%</a
+      >
+      from Tuesday to Wednesday.
+    </mj-text>
+  </mj-column>
+</mj-section>

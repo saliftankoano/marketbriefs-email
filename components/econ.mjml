@@ -1,0 +1,121 @@
+<mj-section padding-top="0" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image
+      src="http://127.0.0.1:5500/assets/econ.png"
+      alt="us dollar sign"
+    />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      padding-bottom="0"
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      font-weight="bold"
+      color="#333333"
+    >
+      <span class="heading-text">ECONOMY</span>
+      <br />
+      <ul>
+        <li>US10YEAR: 4.25% <span class="text-green">(+0.03%)</span></li>
+        <li>US2YEAR: 4.73% <span class="text-green">(+0.03%)</span></li>
+        <li>CPI: <span class="text-red">+3.3%</span></li>
+      </ul>
+    </mj-text>
+  </mj-column>
+  <mj-raw>
+    <!-- Section Note -->
+  </mj-raw>
+  <mj-column width="100%" padding="0">
+    <mj-text align="center">
+      *Economy numbers as of June 19th
+    </mj-text></mj-column
+  >
+  <mj-column width="100%" padding="0">
+    <mj-text font-size="24px" line-height="29px" font-weight="bold">
+      Sunny Delight
+    </mj-text>
+    <mj-image
+      src="http://127.0.0.1:5500/assets/delight.jpg"
+      alt="sunny day with faang companies logos in the sky"
+    />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      padding-bottom="0"
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      color="#333333"
+    >
+      With AI on the rise, tech companies are looking to fill big energy needs
+      to power new data centers.
+    </mj-text>
+    <mj-text
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      color="#333333"
+    >
+      A lot of that energy will come from the fastest-growing energy sector:
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TLKk"
+        >Solar power</a
+      >. <br />
+      <ul>
+        <li>
+          The government says that solar power will make up 58% of all new
+          energy generation in the U.S. in 2024.
+        </li>
+      </ul>
+    </mj-text>
+    <mj-text
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      color="#333333"
+    >
+      <strong>It’s cheaper:</strong> The price of installing solar production
+      has fallen below virtually every other method - though storing energy in
+      batteries remains expensive.
+    </mj-text>
+    <mj-text
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      color="#333333"
+    >
+      40% of demand for solar projects in the U.S. over the last five years came
+      from just four companies: Amazon, Google, Meta, and Microsoft.
+    </mj-text>
+  </mj-column>
+  <mj-column width="15%" padding="0">
+    <mj-text align="center" css-class="line"> </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text font-size="24px" line-height="29px" font-weight="bold">
+      Strong and Slick
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      Another popular form of energy, oil, recovered this week.
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TMIU"
+        >Oil prices</a
+      >
+      rose to their highest level in seven weeks on Wednesday. Experts expect
+      summer gas demand to exceed initial expectations.
+    </mj-text>
+    <mj-text font-size="16px" line-height="24px">
+      <ul>
+        <li>
+          Still, conflicts overseas and production concerns continue to keep the
+          industry on its toes.
+        </li>
+      </ul>
+    </mj-text>
+  </mj-column>
+</mj-section>

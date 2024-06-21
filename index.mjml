@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      .link-color{ color: #036afe; } .line{ border-bottom: 1px solid #666666;
+      height: 1px; }</mj-style
+    >
+
+    <mj-style inline="inline">
+      .heading-text{ color: #026afe; font-weight: bold; font-family: Helvatica;
+      font-size: 17px; line-height: 26px; tex-text-decoration: uppercase;}
+      .text-red{ color: red; } .text-green{ color: green; }</mj-style
+    >
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Publication Date -->
+    </mj-raw>
+    <mj-section padding-top="30px" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-text
+          align="left"
+          font-family="Helvatica"
+          font-size="14px"
+          line-height="17px"
+        >
+          Published on: June 20th, 2024
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- MarketBriefs Banner -->
+    </mj-raw>
+    <mj-include path="./components/banner.mjml" />
+
+    <mj-raw>
+      <!-- Intro Text -->
+    </mj-raw>
+    <mj-section padding-bottom="0">
+      <mj-column width="100%">
+        <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+          <strong>Hey, Briefers!</strong> Today is the longest day of the year,
+          and that's not an exaggeration. This year's
+          <a
+            class="link-color"
+            href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TLJC"
+            >Summer Solstice</a
+          >
+          takes place today at 4:51 pm EDT, making it the earliest Summer
+          Solstice since 1796.
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%" padding-bottom="0">
+        <mj-text
+          font-family="Helvatica"
+          font-size="16px"
+          line-height="24px"
+          padding-bottom="0"
+        >
+          What's in today's newsletter?
+          <br />
+          <ul>
+            <li>Sunny skies.</li>
+            <li>TrumpCoin's debut.</li>
+            <li>Stocks resume trading.</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Handshake Section -->
+    </mj-raw>
+    <mj-section padding-top="0">
+      <mj-column width="100%">
+        <mj-image src="http://127.0.0.1:5500/assets/handshake.png" alt="test" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+          <strong>Data Protection.</strong> Get your phone number removed from
+          Google with our sponsor
+          <a
+            class="link-color"
+            href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TLKU"
+            >DeleteMe</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Economy Section -->
+    </mj-raw>
+    <mj-include path="./components/econ.mjml" />
+
+    <mj-raw>
+      <!-- Global Scoop -->
+    </mj-raw>
+    <mj-include path="./components/global-scoop.mjml" />
+
+    <mj-raw>
+      <!-- Sponsored Area -->
+    </mj-raw>
+    <mj-include path="./components/sponsored.mjml" />
+    <mj-raw>
+      <!--Crypto Section -->
+    </mj-raw>
+    <mj-include path="./components/crypto.mjml" />
+    <mj-raw>
+      <!--Footer Section -->
+    </mj-raw>
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

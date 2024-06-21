@@ -1,0 +1,82 @@
+<mj-section>
+  <mj-column width="100%">
+    <mj-image
+      src="http://127.0.0.1:5500/assets/handshake.png"
+      alt="handshake"
+    />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      padding-bottom="0"
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      font-weight="bold"
+      color="#333333"
+    >
+      <span class="heading-text">SPONSORED BY DELETEME </span>
+    </mj-text>
+    <mj-text font-size="24px" line-height="29px" font-weight="bold">
+      Remove Your Personal Data From Google
+    </mj-text>
+    <mj-text
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      color="#333333"
+      padding-bottom="0"
+    >
+      If personal data is on the internet, you’re exposed.
+    </mj-text>
+    <mj-text
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      color="#333333"
+      padding-bottom="0"
+    >
+      And getting your data removed wasn't easy…until now.
+    </mj-text>
+    <mj-text
+      font-family="Helvatica"
+      font-size="16px"
+      line-height="24px"
+      color="#333333"
+    >
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TLKU"
+        >DeleteMe</a
+      >
+      removes your personal data for you.
+    </mj-text>
+    <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+      How does it work? <br />
+      <ul>
+        <li>Experts search the internet for your personal data.</li>
+        <li>
+          Your personal data gets removed from 100s of
+          <a
+            class="link-color"
+            href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TLKU"
+            >data brokers</a
+          >.
+        </li>
+        <li>
+          DeleteMe continues to monitor and delete your personal data for a
+          year.
+        </li>
+      </ul>
+    </mj-text>
+    <mj-text font-family="Helvatica" font-size="16px" line-height="24px">
+      So, if you’re tired of seeing your private information on the internet and
+      receiving spam calls, texts, and emails,
+      <a
+        class="link-color"
+        href="https://briefs.acemlna.com/lt.php?x=3DZy~GDKUqHM6sGv-dxGheah~3VTidPwj-djY5DII3WZEpSuz0y.zudz1I2ojNE~j-tAY5TLKU"
+        >DeleteMe can save you hours of time</a
+      >
+      (and lots of stress) to get it removed.
+    </mj-text>
+  </mj-column>
+</mj-section>
