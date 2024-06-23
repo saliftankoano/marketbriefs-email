@@ -1,9 +1,6 @@
 <mj-section>
   <mj-column width="100%">
-    <mj-image
-      src="http://127.0.0.1:5500/assets/crypto.png"
-      alt="crypto currency icon"
-    />
+    <mj-image src="./assets/crypto.png" alt="crypto currency icon" />
   </mj-column>
   <mj-column width="100%">
     <mj-text
@@ -33,10 +30,7 @@
     </mj-text>
   </mj-column>
   <mj-column width="100%">
-    <mj-image
-      src="http://127.0.0.1:5500/assets/reveal.gif"
-      alt="surpised sitcom male character"
-    />
+    <mj-image src="./assets/reveal.gif" alt="surpised sitcom male character" />
   </mj-column>
   <mj-column width="100%">
     <mj-text font-family="Helvatica" font-size="16px" line-height="24px">

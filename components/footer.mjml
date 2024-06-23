@@ -1,13 +1,13 @@
 <mj-section>
       <mj-column width="100%" padding="0">
         <mj-image
-          src="http://127.0.0.1:5500/assets/footer-line.png"
+          src="./assets/footer-line.png"
           alt="Blue line"
         />
       </mj-column>
       <mj-column width="30%" padding="0">
         <mj-image
-          src="http://127.0.0.1:5500/assets/icon.png"
+          src="./assets/icon.png"
           alt="Marketbriefs icon"
         />
       </mj-column>

@@ -71,7 +71,7 @@
     </mj-raw>
     <mj-section padding-top="0">
       <mj-column width="100%">
-        <mj-image src="http://127.0.0.1:5500/assets/handshake.png" alt="test" />
+        <mj-image src="./assets/handshake.png" alt="test" />
       </mj-column>
       <mj-column width="100%">
         <mj-text font-family="Helvatica" font-size="16px" line-height="24px">

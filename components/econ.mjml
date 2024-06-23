@@ -1,9 +1,6 @@
 <mj-section padding-top="0" padding-bottom="0">
   <mj-column width="100%">
-    <mj-image
-      src="http://127.0.0.1:5500/assets/econ.png"
-      alt="us dollar sign"
-    />
+    <mj-image src="./assets/econ.png" alt="us dollar sign" />
   </mj-column>
   <mj-column width="100%">
     <mj-text
@@ -36,7 +33,7 @@
       Sunny Delight
     </mj-text>
     <mj-image
-      src="http://127.0.0.1:5500/assets/delight.jpg"
+      src="./assets/delight.jpg"
       alt="sunny day with faang companies logos in the sky"
     />
   </mj-column>

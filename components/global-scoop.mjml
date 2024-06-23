@@ -1,6 +1,6 @@
 <mj-section padding-top="0">
   <mj-column width="100%">
-    <mj-image src="http://127.0.0.1:5500/assets/world.png" alt="handshake" />
+    <mj-image src="./assets/world.png" alt="handshake" />
   </mj-column>
   <mj-column width="100%">
     <mj-text
